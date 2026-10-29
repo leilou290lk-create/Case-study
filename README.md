@@ -1,4 +1,4 @@
-Stratégie Customer Success SaaS — Étude de cas BookIt
+Stratégie Customer Success SaaS - Étude de cas BookIt
 
 Contexte : Étude de cas réalisée dans le cadre de ma certification Customer Success Manager chez Kare School.
 
@@ -28,4 +28,4 @@ Réduire le délai de première réponse de 12 h à moins de 4 h.
 
 Livrable : Présentation stratégique interactive comprenant un diagnostic, des recommandations opérationnelles, une répartition budgétaire et une feuille de route sur six mois.
 
-Projet de simulation professionnelle — les résultats présentés sont des objectifs, et non des performances effectivement réalisées.
+Projet de simulation professionnelle - les résultats présentés sont des objectifs, et non des performances effectivement réalisées.
